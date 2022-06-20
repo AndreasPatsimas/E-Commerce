@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="277114f9-aa6f-47b5-b7a0-1d53d0ce6ca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/services/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/services/Checkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/services/CheckoutService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patsimas/e_commerce/services/CheckoutService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/patsimas/e_commerce/services/Checkout.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/patsimas/e_commerce/services/Checkout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/patsimas/e_commerce/services/CheckoutService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/patsimas/e_commerce/services/CheckoutService.class" afterDir="false" />
-    </list>
+    <list default="true" id="277114f9-aa6f-47b5-b7a0-1d53d0ce6ca6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655717910701</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates">
+      <created>1655721358210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655721358210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
