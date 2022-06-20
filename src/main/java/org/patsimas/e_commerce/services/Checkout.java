@@ -33,6 +33,10 @@ public class Checkout implements CheckoutService {
                 .collect(Collectors.toList());
     }
 
+    public List<Product> getProducts() {
+        return products;
+    }
+
     public double total() {
 
         double totalPrice = products.stream().mapToDouble(Product::getPrice).sum();

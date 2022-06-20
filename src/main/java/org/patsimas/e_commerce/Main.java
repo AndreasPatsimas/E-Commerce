@@ -10,7 +10,7 @@ import java.util.List;
 
 import static org.patsimas.e_commerce.utils.NumericUtils.roundNumberToCentimeters;
 
-public class Menu {
+public class Main {
 
     public static void main(String[] args) {
 
