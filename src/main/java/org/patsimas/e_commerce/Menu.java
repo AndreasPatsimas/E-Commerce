@@ -1,6 +1,5 @@
 package org.patsimas.e_commerce;
 
-import org.patsimas.e_commerce.repositories.ProductRepository;
 import org.patsimas.e_commerce.services.Checkout;
 import org.patsimas.e_commerce.services.CheckoutService;
 import org.patsimas.e_commerce.strategies.DiscountStrategy;
@@ -12,8 +11,6 @@ import java.util.List;
 import static org.patsimas.e_commerce.utils.NumericUtils.roundNumberToCentimeters;
 
 public class Menu {
-
-    private static final ProductRepository productRepository = ProductRepository.getInstance();
 
     public static void main(String[] args) {
 
